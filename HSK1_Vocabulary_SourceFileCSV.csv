@@ -1,0 +1,152 @@
+﻿#,Category,Hanzi 汉字,Pinyin 拼音,English,Part of Speech,Example 例句,Example Pinyin,Example English,Audio Filename 🎤
+1,Pronouns,我,wǒ,I; me,pronoun,我是学生。,Wǒ shì xuéshēng.,I am a student.,wo3.mp3
+2,Pronouns,你,nǐ,you,pronoun,你好吗？,Nǐ hǎo ma?,How are you?,ni3.mp3
+3,Pronouns,他,tā,he; him,pronoun,他是老师。,Tā shì lǎoshī.,He is a teacher.,ta1_he.mp3
+4,Pronouns,她,tā,she; her,pronoun,她很漂亮。,Tā hěn piàoliang.,She is very pretty.,ta1_she.mp3
+5,Pronouns,我们,wǒ men,we; us,pronoun,我们是朋友。,Wǒmen shì péngyou.,We are friends.,wo3men.mp3
+6,Pronouns,这,zhè,this,pronoun,这是我的书。,Zhè shì wǒ de shū.,This is my book.,zhe4.mp3
+7,Pronouns,那,nà,that,pronoun,那是什么？,Nà shì shénme?,What is that?,na4.mp3
+8,Pronouns,哪,nǎ,which,pronoun,你是哪国人？,Nǐ shì nǎ guó rén?,Which country are you from?,na3.mp3
+9,Pronouns,哪儿,nǎ er,where,pronoun,你去哪儿？,Nǐ qù nǎ er?,Where are you going?,na3er.mp3
+10,Pronouns,谁,shéi,who,pronoun,他是谁？,Tā shì shéi?,Who is he?,shei2.mp3
+11,Pronouns,什么,shén me,what,pronoun,你叫什么名字？,Nǐ jiào shénme míngzi?,What is your name?,shen2me.mp3
+12,Pronouns,多少,duō shǎo,how much; how many,pronoun,这个多少钱？,Zhège duōshao qián?,How much is this?,duo1shao3.mp3
+13,Pronouns,几,jǐ,how many; several,pronoun,你有几个朋友？,Nǐ yǒu jǐ gè péngyou?,How many friends do you have?,ji3.mp3
+14,Pronouns,怎么,zěn me,how,pronoun,你怎么去学校？,Nǐ zěnme qù xuéxiào?,How do you go to school?,zen3me.mp3
+15,Pronouns,怎么样,zěn me yàng,how about; how is,pronoun,天气怎么样？,Tiānqì zěnmeyàng?,How is the weather?,zen3meyàng.mp3
+16,People & Family,人,rén,person; people,noun,那个人是我朋友。,Nà ge rén shì wǒ péngyou.,That person is my friend.,ren2.mp3
+17,People & Family,朋友,péng you,friend,noun,她是我的好朋友。,Tā shì wǒ de hǎo péngyou.,She is my good friend.,peng2you.mp3
+18,People & Family,同学,tóng xué,classmate,noun,他是我的同学。,Tā shì wǒ de tóngxué.,He is my classmate.,tong2xue2.mp3
+19,People & Family,老师,lǎo shī,teacher,noun,老师在学校。,Lǎoshī zài xuéxiào.,The teacher is at school.,lao3shi1.mp3
+20,People & Family,学生,xué sheng,student,noun,我是学生。,Wǒ shì xuéshēng.,I am a student.,xue2sheng.mp3
+21,People & Family,先生,xiān sheng,Mr.; husband,noun,王先生你好。,Wáng xiānsheng nǐ hǎo.,"Hello, Mr. Wang.",xian1sheng.mp3
+22,People & Family,小姐,xiǎo jie,Miss; young lady,noun,李小姐在吗？,Lǐ xiǎojie zài ma?,Is Miss Li here?,xiao3jie.mp3
+23,People & Family,爸爸,bà ba,father; dad,noun,爸爸在工作。,Bàba zài gōngzuò.,Dad is working.,ba4ba.mp3
+24,People & Family,妈妈,mā ma,mother; mom,noun,妈妈做饭了。,Māma zuò fàn le.,Mom cooked.,ma1ma.mp3
+25,People & Family,儿子,ér zi,son,noun,他的儿子三岁了。,Tā de érzi sān suì le.,His son is three years old.,er2zi.mp3
+26,People & Family,女儿,nǚ ér,daughter,noun,她的女儿很漂亮。,Tā de nǚ'ér hěn piàoliang.,Her daughter is very pretty.,nv3er2.mp3
+27,People & Family,医生,yī shēng,doctor,noun,他是医生。,Tā shì yīshēng.,He is a doctor.,yi1sheng1.mp3
+28,Numbers,一,yī,one; 1,number,我有一个苹果。,Wǒ yǒu yī gè píngguǒ.,I have one apple.,yi1.mp3
+29,Numbers,二,èr,two; 2,number,我要两杯水。,Wǒ yào liǎng bēi shuǐ.,I want two glasses of water.,er4.mp3
+30,Numbers,三,sān,three; 3,number,他有三本书。,Tā yǒu sān běn shū.,He has three books.,san1.mp3
+31,Numbers,四,sì,four; 4,number,四月很暖和。,Sì yuè hěn nuǎnhuo.,April is warm.,si4.mp3
+32,Numbers,五,wǔ,five; 5,number,五个人来了。,Wǔ gè rén lái le.,Five people came.,wu3.mp3
+33,Numbers,六,liù,six; 6,number,他六岁了。,Tā liù suì le.,He is six years old.,liu4.mp3
+34,Numbers,七,qī,seven; 7,number,星期七？没有！,Xīngqī qī? Méiyǒu!,Week seven? There isn't one!,qi1.mp3
+35,Numbers,八,bā,eight; 8,number,八月很热。,Bā yuè hěn rè.,August is very hot.,ba1.mp3
+36,Numbers,九,jiǔ,nine; 9,number,九点上课。,Jiǔ diǎn shàngkè.,Class starts at nine.,jiu3.mp3
+37,Numbers,十,shí,ten; 10,number,十个学生来了。,Shí gè xuéshēng lái le.,Ten students came.,shi2.mp3
+38,Time,年,nián,year,noun,今年是2026年。,Jīnnián shì 2026 nián.,This year is 2026.,nian2.mp3
+39,Time,月,yuè,month; moon,noun,一月很冷。,Yī yuè hěn lěng.,January is very cold.,yue4.mp3
+40,Time,号,hào,day of month; number,noun,今天几号？,Jīntiān jǐ hào?,What date is today?,hao4.mp3
+41,Time,星期,xīng qī,week,noun,一个星期有七天。,Yī gè xīngqī yǒu qī tiān.,A week has seven days.,xing1qi1.mp3
+42,Time,今天,jīn tiān,today,noun,今天天气很好。,Jīntiān tiānqì hěn hǎo.,The weather is nice today.,jin1tian1.mp3
+43,Time,明天,míng tiān,tomorrow,noun,明天你去哪里？,Míngtiān nǐ qù nǎlǐ?,Where are you going tomorrow?,ming2tian1.mp3
+44,Time,昨天,zuó tiān,yesterday,noun,昨天我很忙。,Zuótiān wǒ hěn máng.,I was very busy yesterday.,zuo2tian1.mp3
+45,Time,上午,shàng wǔ,morning; a.m.,noun,上午我有课。,Shàngwǔ wǒ yǒu kè.,I have class in the morning.,shang4wu3.mp3
+46,Time,中午,zhōng wǔ,noon,noun,中午我们吃饭。,Zhōngwǔ wǒmen chī fàn.,We eat at noon.,zhong1wu3.mp3
+47,Time,下午,xià wǔ,afternoon; p.m.,noun,下午三点见。,Xiàwǔ sān diǎn jiàn.,See you at 3 p.m.,xia4wu3.mp3
+48,Time,点,diǎn,o'clock; dot; a little,noun,现在几点？,Xiànzài jǐ diǎn?,What time is it now?,dian3.mp3
+49,Time,分钟,fēn zhōng,minute,noun,等我五分钟。,Děng wǒ wǔ fēnzhōng.,Wait for me five minutes.,fen1zhong1.mp3
+50,Time,时候,shí hou,time; moment,noun,什么时候去？,Shénme shíhou qù?,When are we going?,shi2hou.mp3
+51,Time,现在,xiàn zài,now; present,noun,现在去吧。,Xiànzài qù ba.,Let's go now.,xian4zai4.mp3
+52,Time,岁,suì,years old,noun,你多大岁数？,Nǐ duōdà suìshu?,How old are you?,sui4.mp3
+53,Verbs,是,shì,to be; yes,verb,我是中国人。,Wǒ shì Zhōngguó rén.,I am Chinese.,shi4.mp3
+54,Verbs,有,yǒu,to have; there is,verb,我有一只猫。,Wǒ yǒu yī zhī māo.,I have a cat.,you3.mp3
+55,Verbs,没有,méi yǒu,don't have; there isn't,verb,我没有钱。,Wǒ méiyǒu qián.,I don't have money.,mei2you3.mp3
+56,Verbs,看,kàn,to look; to see; to watch,verb,我看电视。,Wǒ kàn diànshì.,I watch TV.,kan4.mp3
+57,Verbs,看见,kàn jiàn,to see; to catch sight of,verb,我看见他了。,Wǒ kànjiàn tā le.,I saw him.,kan4jian4.mp3
+58,Verbs,听,tīng,to listen; to hear,verb,我喜欢听音乐。,Wǒ xǐhuan tīng yīnyuè.,I like listening to music.,ting1.mp3
+59,Verbs,说,shuō,to speak; to say,verb,请你说中文。,Qǐng nǐ shuō Zhōngwén.,Please speak Chinese.,shuo1.mp3
+60,Verbs,读,dú,to read; to study,verb,我喜欢读书。,Wǒ xǐhuan dú shū.,I like reading.,du2.mp3
+61,Verbs,写,xiě,to write,verb,请写你的名字。,Qǐng xiě nǐ de míngzi.,Please write your name.,xie3.mp3
+62,Verbs,叫,jiào,to call; to be called,verb,我叫小明。,Wǒ jiào Xiǎo Míng.,My name is Xiao Ming.,jiao4.mp3
+63,Verbs,来,lái,to come,verb,你来中国吗？,Nǐ lái Zhōngguó ma?,Are you coming to China?,lai2.mp3
+64,Verbs,去,qù,to go,verb,我去学校。,Wǒ qù xuéxiào.,I go to school.,qu4.mp3
+65,Verbs,回,huí,to return; to go back,verb,我想回家。,Wǒ xiǎng huí jiā.,I want to go home.,hui2.mp3
+66,Verbs,吃,chī,to eat,verb,我们吃饭吧。,Wǒmen chī fàn ba.,Let's eat.,chi1.mp3
+67,Verbs,喝,hē,to drink,verb,你想喝什么？,Nǐ xiǎng hē shénme?,What would you like to drink?,he1.mp3
+68,Verbs,做,zuò,to do; to make,verb,你在做什么？,Nǐ zài zuò shénme?,What are you doing?,zuo4_do.mp3
+69,Verbs,买,mǎi,to buy,verb,我去买东西。,Wǒ qù mǎi dōngxi.,I'm going shopping.,mai3.mp3
+70,Verbs,开,kāi,to open; to drive; to turn on,verb,请开门。,Qǐng kāi mén.,Please open the door.,kai1.mp3
+71,Verbs,坐,zuò,to sit; to take (transport),verb,请坐。,Qǐng zuò.,Please sit.,zuo4_sit.mp3
+72,Verbs,住,zhù,to live; to stay,verb,你住在哪儿？,Nǐ zhù zài nǎ er?,Where do you live?,zhu4.mp3
+73,Verbs,睡觉,shuì jiào,to sleep; to go to bed,verb,我想睡觉了。,Wǒ xiǎng shuìjiào le.,I want to go to sleep.,shui4jiao4.mp3
+74,Verbs,打电话,dǎ diàn huà,to make a phone call,verb,我给你打电话。,Wǒ gěi nǐ dǎ diànhuà.,I'll call you.,da3dianhua4.mp3
+75,Verbs,下雨,xià yǔ,to rain,verb,明天会下雨。,Míngtiān huì xià yǔ.,It will rain tomorrow.,xia4yu3.mp3
+76,Verbs,工作,gōng zuò,to work; job,verb/noun,我在北京工作。,Wǒ zài Běijīng gōngzuò.,I work in Beijing.,gong1zuo4.mp3
+77,Verbs,学习,xué xí,to study; to learn,verb,我学习中文。,Wǒ xuéxí Zhōngwén.,I study Chinese.,xue2xi2.mp3
+78,Verbs,认识,rèn shi,to know; to recognize,verb,认识你很高兴。,Rènshi nǐ hěn gāoxìng.,Nice to meet you.,ren4shi.mp3
+79,Verbs,喜欢,xǐ huan,to like,verb,我喜欢中国菜。,Wǒ xǐhuan Zhōngguó cài.,I like Chinese food.,xi3huan.mp3
+80,Verbs,想,xiǎng,to think; to want; to miss,verb,我想你了。,Wǒ xiǎng nǐ le.,I miss you.,xiang3.mp3
+81,Verbs,爱,ài,to love,verb,我爱你。,Wǒ ài nǐ.,I love you.,ai4.mp3
+82,Verbs,会,huì,can; will; to meet,verb,我会说中文。,Wǒ huì shuō Zhōngwén.,I can speak Chinese.,hui4.mp3
+83,Verbs,能,néng,can; to be able to,verb,你能帮我吗？,Nǐ néng bāng wǒ ma?,Can you help me?,neng2.mp3
+84,Verbs,请,qǐng,please; to invite,verb,请进。,Qǐng jìn.,Please come in.,qing3.mp3
+85,Adjectives,好,hǎo,good; well,adj,今天天气很好。,Jīntiān tiānqì hěn hǎo.,The weather is good today.,hao3.mp3
+86,Adjectives,大,dà,big; large,adj,这个房间很大。,Zhège fángjiān hěn dà.,This room is very big.,da4.mp3
+87,Adjectives,小,xiǎo,small; little,adj,我的猫很小。,Wǒ de māo hěn xiǎo.,My cat is very small.,xiao3.mp3
+88,Adjectives,多,duō,many; much,adj,人很多。,Rén hěn duō.,There are many people.,duo1.mp3
+89,Adjectives,少,shǎo,few; little,adj,人很少。,Rén hěn shǎo.,There are few people.,shao3.mp3
+90,Adjectives,冷,lěng,cold,adj,今天很冷。,Jīntiān hěn lěng.,It's cold today.,leng3.mp3
+91,Adjectives,热,rè,hot,adj,夏天很热。,Xiàtiān hěn rè.,Summer is very hot.,re4.mp3
+92,Adjectives,高兴,gāo xìng,happy; glad,adj,我很高兴。,Wǒ hěn gāoxìng.,I am very happy.,gao1xing4.mp3
+93,Adjectives,漂亮,piào liang,pretty; beautiful,adj,这朵花很漂亮。,Zhè duǒ huā hěn piàoliang.,This flower is very pretty.,piao4liang.mp3
+94,Food & Drink,水,shuǐ,water,noun,请给我一杯水。,Qǐng gěi wǒ yī bēi shuǐ.,Please give me a glass of water.,shui3.mp3
+95,Food & Drink,茶,chá,tea,noun,中国茶很好喝。,Zhōngguó chá hěn hǎo hē.,Chinese tea is delicious.,cha2.mp3
+96,Food & Drink,菜,cài,dish; vegetable,noun,这个菜很好吃。,Zhège cài hěn hǎochī.,This dish is delicious.,cai4.mp3
+97,Food & Drink,米饭,mǐ fàn,rice (cooked),noun,我喜欢吃米饭。,Wǒ xǐhuan chī mǐfàn.,I like eating rice.,mi3fan4.mp3
+98,Food & Drink,水果,shuǐ guǒ,fruit,noun,我喜欢吃水果。,Wǒ xǐhuan chī shuǐguǒ.,I like eating fruit.,shui3guo3.mp3
+99,Food & Drink,苹果,píng guǒ,apple,noun,这个苹果很大。,Zhège píngguǒ hěn dà.,This apple is very big.,ping2guo3.mp3
+100,Food & Drink,杯子,bēi zi,cup; glass,noun,这是我的杯子。,Zhè shì wǒ de bēizi.,This is my cup.,bei1zi.mp3
+101,Places,家,jiā,home; family,noun,我在家。,Wǒ zài jiā.,I am at home.,jia1.mp3
+102,Places,学校,xué xiào,school,noun,学校在那里。,Xuéxiào zài nàlǐ.,The school is over there.,xue2xiao4.mp3
+103,Places,饭店,fàn diàn,restaurant; hotel,noun,我们去饭店吃饭。,Wǒmen qù fàndiàn chī fàn.,Let's go eat at the restaurant.,fan4dian4.mp3
+104,Places,商店,shāng diàn,store; shop,noun,商店在前面。,Shāngdiàn zài qiánmiàn.,The store is ahead.,shang1dian4.mp3
+105,Places,医院,yī yuàn,hospital,noun,医院在哪儿？,Yīyuàn zài nǎ er?,Where is the hospital?,yi1yuan4.mp3
+106,Places,中国,zhōng guó,China,noun,我在中国。,Wǒ zài Zhōngguó.,I am in China.,zhong1guo2.mp3
+107,Places,北京,běi jīng,Beijing,noun,北京很大。,Běijīng hěn dà.,Beijing is very big.,bei3jing1.mp3
+108,Objects,东西,dōng xi,thing; stuff,noun,这是什么东西？,Zhè shì shénme dōngxi?,What is this thing?,dong1xi.mp3
+109,Objects,书,shū,book,noun,这本书很好。,Zhè běn shū hěn hǎo.,This book is very good.,shu1.mp3
+110,Objects,电脑,diàn nǎo,computer,noun,我用电脑工作。,Wǒ yòng diànnǎo gōngzuò.,I work with a computer.,dian4nao3.mp3
+111,Objects,电视,diàn shì,TV; television,noun,我在看电视。,Wǒ zài kàn diànshì.,I'm watching TV.,dian4shi4.mp3
+112,Objects,电影,diàn yǐng,movie; film,noun,我们去看电影。,Wǒmen qù kàn diànyǐng.,Let's go see a movie.,dian4ying3.mp3
+113,Objects,钱,qián,money,noun,我没有钱。,Wǒ méiyǒu qián.,I don't have money.,qian2.mp3
+114,Objects,飞机,fēi jī,airplane,noun,我坐飞机去。,Wǒ zuò fēijī qù.,I'll go by plane.,fei1ji1.mp3
+115,Objects,出租车,chū zū chē,taxi,noun,我们坐出租车。,Wǒmen zuò chūzūchē.,Let's take a taxi.,chu1zuche1.mp3
+116,Objects,桌子,zhuō zi,table; desk,noun,书在桌子上。,Shū zài zhuōzi shàng.,The book is on the table.,zhuo1zi.mp3
+117,Objects,椅子,yǐ zi,chair,noun,请坐椅子。,Qǐng zuò yǐzi.,Please sit on the chair.,yi3zi.mp3
+118,Objects,衣服,yī fu,clothes,noun,我买了新衣服。,Wǒ mǎi le xīn yīfu.,I bought new clothes.,yi1fu.mp3
+119,Objects,猫,māo,cat,noun,我的猫很可爱。,Wǒ de māo hěn kě'ài.,My cat is very cute.,mao1.mp3
+120,Objects,狗,gǒu,dog,noun,他有一只狗。,Tā yǒu yī zhī gǒu.,He has a dog.,gou3.mp3
+121,Objects,名字,míng zi,name,noun,你的名字是什么？,Nǐ de míngzi shì shénme?,What is your name?,ming2zi.mp3
+122,Objects,汉语,hàn yǔ,Chinese language,noun,我学习汉语。,Wǒ xuéxí Hànyǔ.,I'm studying Chinese.,han4yu3.mp3
+123,Objects,字,zì,character; word,noun,这个字怎么写？,Zhège zì zěnme xiě?,How do you write this character?,zi4.mp3
+124,Objects,天气,tiān qì,weather,noun,今天天气不错。,Jīntiān tiānqì búcuò.,The weather is nice today.,tian1qi4.mp3
+125,Position,上,shàng,up; on; above,position,书在桌子上。,Shū zài zhuōzi shàng.,The book is on the table.,shang4.mp3
+126,Position,下,xià,down; below; under,position,猫在桌子下。,Māo zài zhuōzi xià.,The cat is under the table.,xia4.mp3
+127,Position,前面,qián miàn,front; ahead,position,学校在前面。,Xuéxiào zài qiánmiàn.,The school is ahead.,qian2mian4.mp3
+128,Position,后面,hòu miàn,behind; back,position,商店在后面。,Shāngdiàn zài hòumiàn.,The store is behind.,hou4mian4.mp3
+129,Position,里,lǐ,inside; in,position,他在家里。,Tā zài jiā lǐ.,He is at home.,li3.mp3
+130,Position,在,zài,at; in; on (location),prep,我在北京。,Wǒ zài Běijīng.,I am in Beijing.,zai4.mp3
+131,Greetings & Phrases,你好,nǐ hǎo,hello,phrase,你好，我叫小明。,"Nǐ hǎo, wǒ jiào Xiǎo Míng.","Hello, my name is Xiao Ming.",ni3hao3.mp3
+132,Greetings & Phrases,谢谢,xiè xie,thank you,phrase,谢谢你的帮助。,Xiè xie nǐ de bāngzhù.,Thank you for your help.,xie4xie.mp3
+133,Greetings & Phrases,不客气,bú kè qi,you're welcome,phrase,不客气，没关系。,"Bú kèqi, méi guānxi.","You're welcome, it's nothing.",bu2keqi.mp3
+134,Greetings & Phrases,对不起,duì bu qǐ,sorry; excuse me,phrase,对不起，我迟到了。,"Duìbuqǐ, wǒ chídào le.","Sorry, I'm late.",dui4buqi3.mp3
+135,Greetings & Phrases,没关系,méi guān xi,it doesn't matter,phrase,没关系，不用谢。,"Méi guānxi, búyòng xiè.","It's okay, no need to thank me.",mei2guanxi.mp3
+136,Greetings & Phrases,再见,zài jiàn,goodbye,phrase,再见，明天见！,"Zàijiàn, míngtiān jiàn!","Goodbye, see you tomorrow!",zai4jian4.mp3
+137,Greetings & Phrases,喂,wèi,hello (on phone); hey,phrase,喂，你好！,"Wèi, nǐ hǎo!",Hello! (on the phone),wei4.mp3
+138,Grammar Words,不,bù,not; no,adverb,我不去。,Wǒ bú qù.,I'm not going.,bu4.mp3
+139,Grammar Words,很,hěn,very; quite,adverb,她很好。,Tā hěn hǎo.,She is very well.,hen3.mp3
+140,Grammar Words,太,tài,too; extremely,adverb,太好了！,Tài hǎo le!,That's great!,tai4.mp3
+141,Grammar Words,都,dōu,all; both; even,adverb,我们都是学生。,Wǒmen dōu shì xuéshēng.,We are all students.,dou1.mp3
+142,Grammar Words,的,de,(possessive/descriptive particle),particle,我的书。,Wǒ de shū.,My book.,de.mp3
+143,Grammar Words,了,le,(completed action marker),particle,我吃了。,Wǒ chī le.,I have eaten.,le.mp3
+144,Grammar Words,吗,ma,(question particle),particle,你好吗？,Nǐ hǎo ma?,How are you?,ma.mp3
+145,Grammar Words,呢,ne,(question particle),particle,你呢？,Nǐ ne?,And you?,ne.mp3
+146,Grammar Words,和,hé,and; with,conj,我和你。,Wǒ hé nǐ.,You and me.,he2.mp3
+147,Grammar Words,个,gè,(general measure word),mw,一个人。,Yī gè rén.,One person.,ge4.mp3
+148,Grammar Words,块,kuài,(measure word for money),mw,十块钱。,Shí kuài qián.,Ten yuan.,kuai4.mp3
+149,Grammar Words,本,běn,(measure word for books),mw,一本书。,Yī běn shū.,One book.,ben3.mp3
+150,Grammar Words,些,xiē,some; a few,mw,一些水果。,Yīxiē shuǐguǒ.,Some fruit.,xie1.mp3
+151,Grammar Words,一点儿,yī diǎn er,a little bit,phrase,我会一点儿中文。,Wǒ huì yīdiǎnr Zhōngwén.,I can speak a little Chinese.,yi4dianr3.mp3
