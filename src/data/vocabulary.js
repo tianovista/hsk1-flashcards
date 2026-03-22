@@ -98,15 +98,15 @@ export const vocabulary = [
   { id: 84,  hanzi: '请',    pinyin: 'qǐng',        english: 'please; to invite',   partOfSpeech: 'verb',    category: 'Verbs',              audioFile: 'my_audio_clips/qing3.mp3', exampleAudioFile: 'my_audio_clips/qing3jin4.mp3',      example: '请进。',              examplePinyin: 'Qǐng jìn.',                exampleTranslation: 'Please come in.' },
 
   // ── ADJECTIVES ─────────────────────────────────────────────
-  { id: 85,  hanzi: '好',    pinyin: 'hǎo',         english: 'good; well',          partOfSpeech: 'adj',     category: 'Adjectives',       example: '今天天气很好。',      examplePinyin: 'Jīntiān tiānqì hěn hǎo.',   exampleTranslation: 'The weather is good today.' },
-  { id: 86,  hanzi: '大',    pinyin: 'dà',          english: 'big; large',          partOfSpeech: 'adj',     category: 'Adjectives',        example: '这个房间很大。',      examplePinyin: 'Zhège fángjiān hěn dà.',    exampleTranslation: 'This room is very big.' },
-  { id: 87,  hanzi: '小',    pinyin: 'xiǎo',        english: 'small; little',       partOfSpeech: 'adj',     category: 'Adjectives',      example: '我的猫很小。',        examplePinyin: 'Wǒ de māo hěn xiǎo.',      exampleTranslation: 'My cat is very small.' },
-  { id: 88,  hanzi: '多',    pinyin: 'duō',         english: 'many; much',          partOfSpeech: 'adj',     category: 'Adjectives',       example: '人很多。',            examplePinyin: 'Rén hěn duō.',              exampleTranslation: 'There are many people.' },
-  { id: 89,  hanzi: '少',    pinyin: 'shǎo',        english: 'few; little',         partOfSpeech: 'adj',     category: 'Adjectives',      example: '人很少。',            examplePinyin: 'Rén hěn shǎo.',             exampleTranslation: 'There are few people.' },
-  { id: 90,  hanzi: '冷',    pinyin: 'lěng',        english: 'cold',                partOfSpeech: 'adj',     category: 'Adjectives',      example: '今天很冷。',          examplePinyin: 'Jīntiān hěn lěng.',         exampleTranslation: "It's cold today." },
-  { id: 91,  hanzi: '热',    pinyin: 'rè',          english: 'hot',                 partOfSpeech: 'adj',     category: 'Adjectives',        example: '夏天很热。',          examplePinyin: 'Xiàtiān hěn rè.',           exampleTranslation: 'Summer is very hot.' },
-  { id: 92,  hanzi: '高兴',  pinyin: 'gāo xìng',    english: 'happy; glad',         partOfSpeech: 'adj',     category: 'Adjectives',  example: '我很高兴。',          examplePinyin: 'Wǒ hěn gāoxìng.',          exampleTranslation: 'I am very happy.' },
-  { id: 93,  hanzi: '漂亮',  pinyin: 'piào liang',  english: 'pretty; beautiful',   partOfSpeech: 'adj',     category: 'Adjectives', example: '这朵花很漂亮。',      examplePinyin: 'Zhè duǒ huā hěn piàoliang.', exampleTranslation: 'This flower is very pretty.' },
+  { id: 85,  hanzi: '好',    pinyin: 'hǎo',         english: 'good; well',          partOfSpeech: 'adj',     category: 'Adjectives',       example: '今天天气很好。',      examplePinyin: 'Jīntiān tiānqì hěn hǎo.',   exampleTranslation: 'The weather is good today.', audioFile: 'recorded/word_85.webm', exampleAudioFile: 'recorded/example_85.webm' },
+  { id: 86,  hanzi: '大',    pinyin: 'dà',          english: 'big; large',          partOfSpeech: 'adj',     category: 'Adjectives',        example: '这个房间很大。',      examplePinyin: 'Zhège fángjiān hěn dà.',    exampleTranslation: 'This room is very big.', exampleAudioFile: 'recorded/example_86.webm' },
+  { id: 87,  hanzi: '小',    pinyin: 'xiǎo',        english: 'small; little',       partOfSpeech: 'adj',     category: 'Adjectives',      example: '我的猫很小。',        examplePinyin: 'Wǒ de māo hěn xiǎo.',      exampleTranslation: 'My cat is very small.', audioFile: 'recorded/word_87.webm', exampleAudioFile: 'recorded/example_87.webm' },
+  { id: 88,  hanzi: '多',    pinyin: 'duō',         english: 'many; much',          partOfSpeech: 'adj',     category: 'Adjectives',       example: '人很多。',            examplePinyin: 'Rén hěn duō.',              exampleTranslation: 'There are many people.', audioFile: 'recorded/word_88.webm' },
+  { id: 89,  hanzi: '少',    pinyin: 'shǎo',        english: 'few; little',         partOfSpeech: 'adj',     category: 'Adjectives',      example: '人很少。',            examplePinyin: 'Rén hěn shǎo.',             exampleTranslation: 'There are few people.', exampleAudioFile: 'recorded/example_89.webm' },
+  { id: 90,  hanzi: '冷',    pinyin: 'lěng',        english: 'cold',                partOfSpeech: 'adj',     category: 'Adjectives',      example: '今天很冷。',          examplePinyin: 'Jīntiān hěn lěng.',         exampleTranslation: "It's cold today.", exampleAudioFile: 'recorded/example_90.webm' },
+  { id: 91,  hanzi: '热',    pinyin: 'rè',          english: 'hot',                 partOfSpeech: 'adj',     category: 'Adjectives',        example: '夏天很热。',          examplePinyin: 'Xiàtiān hěn rè.',           exampleTranslation: 'Summer is very hot.', audioFile: 'recorded/word_91.webm', exampleAudioFile: 'recorded/example_91.webm' },
+  { id: 92,  hanzi: '高兴',  pinyin: 'gāo xìng',    english: 'happy; glad',         partOfSpeech: 'adj',     category: 'Adjectives',  example: '我很高兴。',          examplePinyin: 'Wǒ hěn gāoxìng.',          exampleTranslation: 'I am very happy.', exampleAudioFile: 'recorded/example_92.webm' },
+  { id: 93,  hanzi: '漂亮',  pinyin: 'piào liang',  english: 'pretty; beautiful',   partOfSpeech: 'adj',     category: 'Adjectives', example: '这朵花很漂亮。',      examplePinyin: 'Zhè duǒ huā hěn piàoliang.', exampleTranslation: 'This flower is very pretty.', audioFile: 'recorded/word_93.webm', exampleAudioFile: 'recorded/example_93.webm' },
 
   // ── FOOD & DRINK ───────────────────────────────────────────
   { id: 94,  hanzi: '水',    pinyin: 'shuǐ',        english: 'water',               partOfSpeech: 'noun',    category: 'Food & Drink',      example: '请给我一杯水。',      examplePinyin: 'Qǐng gěi wǒ yī bēi shuǐ.', exampleTranslation: 'Please give me a glass of water.' },
@@ -181,12 +181,12 @@ export const vocabulary = [
 
 export const categories = [
   'All',
+  'Verbs',
+  'Adjectives',
   'Pronouns',
   'People & Family',
   'Numbers',
   'Time',
-  'Verbs',
-  'Adjectives',
   'Food & Drink',
   'Places',
   'Objects',

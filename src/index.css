@@ -486,6 +486,100 @@ html, body {
   text-align: center;
   font-weight: 300;
   line-height: 1.5;
+  filter: blur(0);
+  transition: filter 0.4s ease;
+  cursor: default;
+}
+
+.example-en.blurred {
+  filter: blur(6px);
+  cursor: pointer;
+}
+
+/* ── Dev recording controls ── */
+.audio-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.rec-btn {
+  background: none;
+  border: 1px solid rgba(250, 251, 252, 0.15);
+  border-radius: 50%;
+  width: 26px;
+  height: 26px;
+  font-size: 12px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgba(250, 251, 252, 0.45);
+  transition: all 0.2s ease;
+  padding: 0;
+}
+
+.rec-btn:hover {
+  border-color: rgba(250, 251, 252, 0.4);
+  color: rgba(250, 251, 252, 0.8);
+}
+
+/* On the light card front, flip to dark colors */
+.card-front .rec-btn {
+  border-color: rgba(13, 31, 60, 0.2);
+  color: rgba(13, 31, 60, 0.5);
+}
+
+.card-front .rec-btn:hover {
+  border-color: rgba(13, 31, 60, 0.5);
+  color: rgba(13, 31, 60, 0.9);
+}
+
+.card-front .rec-btn--recording {
+  border-color: #e05555;
+  color: #e05555;
+}
+
+.card-front .rec-saved {
+  color: #3a9e6e;
+}
+
+.card-front .rec-error {
+  color: #e05555;
+}
+
+.rec-btn--recording {
+  border-color: #e05555;
+  color: #e05555;
+  animation: rec-pulse 1s ease-in-out infinite;
+}
+
+.rec-btn--save {
+  border-color: #7ec8a0;
+  color: #7ec8a0;
+}
+
+@keyframes rec-pulse {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0.4; }
+}
+
+.rec-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.rec-saved {
+  font-size: 0.7rem;
+  color: #7ec8a0;
+  letter-spacing: 0.05em;
+}
+
+.rec-error {
+  font-size: 0.65rem;
+  color: #e05555;
 }
 
 .back-hint {
