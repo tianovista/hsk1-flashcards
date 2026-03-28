@@ -3,6 +3,7 @@ import { vocabulary } from './data/vocabulary';
 import CategoryFilter from './components/CategoryFilter';
 import Flashcard from './components/Flashcard';
 import ProgressStats from './components/ProgressStats';
+import RecordingStudio from './components/RecordingStudio';
 
 // ── Load saved progress from the browser's local storage ──
 function loadStats() {
@@ -100,10 +101,20 @@ export default function App() {
     setIndex(0);
   }
 
+  const [studioOpen, setStudioOpen] = useState(false);
+
   if (!currentWord) return <div className="loading">Loading cards…</div>;
 
   return (
     <div className="app">
+      {import.meta.env.DEV && studioOpen && (
+        <RecordingStudio onClose={() => setStudioOpen(false)} />
+      )}
+      {import.meta.env.DEV && !studioOpen && (
+        <button className="studio-open-btn" onClick={() => setStudioOpen(true)}>
+          🎙 Recording Studio
+        </button>
+      )}
       <header className="app-header">
         <h1 className="app-title">
           <span className="title-zh">汉语</span>
