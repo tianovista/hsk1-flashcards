@@ -433,27 +433,20 @@ html, body {
   margin-bottom: 0.5rem;
 }
 
-.back-example-label {
+.example-audio-btn {
+  background: none;
+  border: 1px solid rgba(250, 251, 252, 0.2);
+  border-radius: 99px;
+  padding: 0.35rem 0.85rem;
   font-size: 0.6rem;
   text-transform: uppercase;
   letter-spacing: 0.2em;
-  color: rgba(250, 251, 252, 0.3);
-}
-
-.example-audio-btn {
-  background: none;
-  border: 1px solid rgba(250, 251, 252, 0.15);
-  border-radius: 50%;
-  width: 24px;
-  height: 24px;
-  font-size: 11px;
   cursor: pointer;
-  display: flex;
+  display: inline-flex;
   align-items: center;
-  justify-content: center;
-  color: rgba(250, 251, 252, 0.4);
+  gap: 0.4em;
+  color: rgba(250, 251, 252, 0.45);
   transition: all 0.2s ease;
-  padding: 0;
 }
 
 .example-audio-btn:hover {
